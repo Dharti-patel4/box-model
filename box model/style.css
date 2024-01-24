@@ -1,0 +1,33 @@
+*
+{
+    margin:0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+.first
+{
+    border:2px dotted  black;
+    background-color: cornflowerblue;
+    
+}
+.second
+{
+    border:10px groove black;
+    background-color: cadetblue;
+    padding: 40px;
+    margin:10px;
+
+}
+.h3
+{
+    background-color: white;
+}
+.third
+{
+    border:2px dashed black;
+}
+.four
+{
+    border:2px dashed black;
+    margin: 50px; 
+}
